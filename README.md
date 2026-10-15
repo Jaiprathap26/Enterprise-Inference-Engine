@@ -101,6 +101,3 @@ curl -X POST "http://localhost:8000/generate" \
 
 ```
 
-Commit this to your main branch. Make sure this repository link is featured prominently at the very top of your resume and your LinkedIn profile. You are now officially entering the job market with the portfolio of a Systems Engineer.
-
-```
